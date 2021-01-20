@@ -1,0 +1,30 @@
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\bin\Debug\KevinKim_Midterm_991456570.exe.config
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\bin\Debug\KevinKim_Midterm_991456570.exe
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\bin\Debug\KevinKim_Midterm_991456570.pdb
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.Form1.resources
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.Properties.Resources.resources
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.exe
+C:\Users\kevin\Desktop\SpringSumm 2018 Courses\1.NET C#\Projects\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.pdb
+C:\Users\kevin\Desktop\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\bin\Debug\KevinKim_Midterm_991456570.exe.config
+C:\Users\kevin\Desktop\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\bin\Debug\KevinKim_Midterm_991456570.exe
+C:\Users\kevin\Desktop\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\bin\Debug\KevinKim_Midterm_991456570.pdb
+C:\Users\kevin\Desktop\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.csprojResolveAssemblyReference.cache
+C:\Users\kevin\Desktop\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.Form1.resources
+C:\Users\kevin\Desktop\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.Properties.Resources.resources
+C:\Users\kevin\Desktop\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.exe
+C:\Users\kevin\Desktop\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.pdb
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Midterm\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\bin\Debug\KevinKim_Midterm_991456570.exe.config
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Midterm\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\bin\Debug\KevinKim_Midterm_991456570.exe
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Midterm\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\bin\Debug\KevinKim_Midterm_991456570.pdb
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Midterm\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.csprojAssemblyReference.cache
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Midterm\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.Form1.resources
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Midterm\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.Properties.Resources.resources
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Midterm\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.csproj.GenerateResource.cache
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Midterm\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.csproj.CoreCompileInputs.cache
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Midterm\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.exe
+C:\Users\k6yk0\Desktop\Sheridan Term 4\1.NET C#\Midterm\KevinKim_991456570_MidtermExam\KevinKim_Midterm_991456570\KevinKim_Midterm_991456570\obj\Debug\KevinKim_Midterm_991456570.pdb
